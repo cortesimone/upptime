@@ -1,41 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 103,
-    "timeWeek": 94,
-    "timeMonth": 87,
-    "timeYear": 87,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 298,
-    "timeWeek": 220,
-    "timeMonth": 226,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Simone Cortesi",
     "url": "https://cortesi.com",
     "icon": "https://favicons.githubusercontent.com/cortesi.com",
@@ -46,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 618,
-    "timeWeek": 786,
-    "timeMonth": 850,
-    "timeYear": 850,
+    "time": 829,
+    "timeDay": 607,
+    "timeWeek": 763,
+    "timeMonth": 829,
+    "timeYear": 829,
     "dailyMinutesDown": {}
   }
 ]
