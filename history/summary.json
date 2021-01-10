@@ -1,20 +1,20 @@
 [
   {
-    "name": "Simone Cortesi",
+    "name": "cortesi.com",
     "url": "https://cortesi.com",
     "icon": "https://favicons.githubusercontent.com/cortesi.com",
-    "slug": "simone-cortesi",
+    "slug": "cortesi-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 468,
-    "timeWeek": 592,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "time": 467,
+    "timeDay": 467,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   }
 ]
