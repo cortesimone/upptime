@@ -4,7 +4,7 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: "Simone Cortesi"
+  - name: "cortesi.com"
     url: https://cortesi.com
 
 status-website:
