@@ -4,19 +4,19 @@
     "url": "https://cortesi.com",
     "icon": "https://favicons.githubusercontent.com/cortesi.com",
     "slug": "cortesi-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 539,
-    "timeWeek": 541,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
+    "time": 565,
+    "timeDay": 543,
+    "timeWeek": 542,
     "timeMonth": 554,
-    "timeYear": 566,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2021-07-10": 0
+      "2021-07-10": 64
     }
   }
 ]
